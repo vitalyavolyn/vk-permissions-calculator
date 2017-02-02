@@ -1,7 +1,7 @@
 const types = {
   notify: 1,
   friends: 2,
-  photos: 3,
+  photos: 4,
   audio: 8,
   video: 16,
   pages: 128,
